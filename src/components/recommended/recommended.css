@@ -1,0 +1,20 @@
+.recommended{
+  flex-basis: 30%;
+}
+
+.recommended .card{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.recommended .card img{
+  flex-basis: 49%;
+  width: 50%;
+}
+
+.recommended .vid-info{
+  flex-basis: 49%;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
